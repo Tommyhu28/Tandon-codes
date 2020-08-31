@@ -1,3 +1,3 @@
 # Tandon-codes
 
-Homeowrk codes
+Homework codes
